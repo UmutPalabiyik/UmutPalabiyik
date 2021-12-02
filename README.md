@@ -19,10 +19,9 @@
 <br>
 <img align="center"  width="100%" alt="GIF" src="https://media4.giphy.com/media/rxxoE6WzgCUG4/giphy.gif?cid=ecf05e47rcv3fmbef39hpfuuiqg71546l8l9nkx9xs63j751&rid=giphy.gif&ct=g" />
 
-<br>
+
 <br>
 
----
 
 <h2>Talking about Personal Stuffs</h2>
 
@@ -33,8 +32,6 @@
 - 📫 How to reach me: umutplbyk96@gmail.com
 
 <br>
-
----
 
 <h2>My deploys</h2>
 
