@@ -1,7 +1,7 @@
 <!-- <img src="https://media1.giphy.com/media/l1AsJoOWnvy0CuyFq/giphy.gif?cid=ecf05e47b3fvxosuc6cfpy7wm6bgyl16hu9sl2s4dbgosjjl&rid=giphy.gif&ct=g" align="right"/>
  -->
 
-<h2 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm <a href="https://shwetang550.github.io/profile/">Umut Palabiyik</a></h2>
+<h2 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  I'm <a href="https://shwetang550.github.io/profile/">Umut Palabiyik</a></h2>
 
 <p align="center">
   <a href="mailto:umutplbyk96@gmail.com">
