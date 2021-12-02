@@ -45,12 +45,6 @@
 
 <br>
 
-![github graph](https://activity-graph.herokuapp.com/graph?username=UmutPalabiyik&theme=react-dark)
-
- <br>
-
-<br>
-
 <h2>Tools & Technologies</h2>
 <br>
 <p align="center">
