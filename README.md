@@ -29,8 +29,6 @@
 <br>
 
 - 👨🏽‍💻 I’m Front-end developer :wink:
-<br>
-
 - 🌱 I’m currently learning Typescript
 - 📫 How to reach me: umutplbyk96@gmail.com
 
@@ -44,8 +42,6 @@
 
 
 1. Hope Movie --> ( reactJS ) --> [Repo](https://github.com/UmutPalabiyik/hope-movie-app) - [Deploy](https://hope-movie.web.app/page/1)
-<br>
-
 2. Mook Game Buddy --> ( reactJS - nodeJS ) --> [Repo](https://github.com/UmutPalabiyik/mook) - [Deploy](https://mook-f2b4e.web.app)
 3. Rock Paper Scissors Game --> ( reactJS ) --> [Repo](https://github.com/UmutPalabiyik/RockPaperScissors) - [Deploy](https://rockpaperscissors-4d92e.web.app)
 4. Netflix Clone --> ( reactJS ) --> [Repo](https://github.com/UmutPalabiyik/netflix-clone-react) - [Deploy](https://netflix-clone-852b9.web.app)
