@@ -25,7 +25,7 @@
 <h2>Talking about Personal Stuffs</h2>
 
 <br>
-- 👨 I’m currently working on Vue.Js, Quasar
+  👨 I’m currently working on Vue.Js, Quasar
 - 👨🏽‍💻 I’m Front-end developer :wink:
 - 🌱 I’m currently learning Typescript
 - 📫 How to reach me: umutplbyk96@gmail.com
