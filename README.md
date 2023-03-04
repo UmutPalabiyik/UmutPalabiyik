@@ -28,7 +28,7 @@
 
 - 👨 I’m currently working on ReactJs, TypeScript
 - 👨🏽‍💻 I’m Front-end developer :wink:
-- 🌱 I’m currently learning Typescript
+- 🌱 I’m currently learning React Native
 - 📫 How to reach me: umutplbyk96@gmail.com
 
 <br>
