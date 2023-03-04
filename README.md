@@ -26,7 +26,7 @@
 
 <br>
 
-- 👨 I’m currently working on Vue.Js, Quasar, Python
+- 👨 I’m currently working on ReactJs, TypeScript
 - 👨🏽‍💻 I’m Front-end developer :wink:
 - 🌱 I’m currently learning Typescript
 - 📫 How to reach me: umutplbyk96@gmail.com
